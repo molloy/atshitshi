@@ -26,3 +26,569 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+project code names:
+Ace
+Acapulco Gold
+Acapulco Red
+Afgani Indica
+African
+African Black
+African Bush
+African Woodbine
+Airplane
+Angola
+Ashes
+Assassin of Youth
+Astro Turf
+*Atshitshi
+Aunt Mary
+Baby
+Baby Bhang
+Babysitter
+Bad Seed
+Bale
+Bamba
+*Bambalachacha
+Bammy
+Bar
+Bash
+Belyando Spruce
+Bhang
+Binky
+Black
+Black Bart
+Black Ganga
+Black Gold
+Black Gungi
+Black Gunion
+Blanket
+Blaze
+Block
+Blond
+Blonde
+Blowing Smoke
+Blue de Hue
+Blue Sage
+Blue Sky
+Blunt
+Bo
+Bobo
+Bo Bo Bush
+Bohd
+Bomber
+Boo
+Boo Boo Bama
+Boom
+Bowl
+Broccoli
+Brown
+Bubble Gum
+Budda
+Buds
+Bullyon
+Burnie
+Bush
+Butter
+Butter Flower
+C.S.
+Cam Trip
+Cambodian Red/Cam Red
+Can
+Canadian Black
+Canamo
+Canappa
+Cancelled Stick
+Cannabis
+Cannabis Tea
+Carmabis
+Catnip
+Cavite All Star
+Cest
+Charas
+Charge
+Cheeba
+Cheeo
+Chemo
+Chicago Black
+Chicago Green
+Chira
+Chocolate Thai
+Christmas Bud
+Christmas Tree
+Chronic
+Chunky
+Churus
+Citrol
+Climb
+*Cochornis
+Colas
+Coli
+Coliflor Tostao
+Colorado Cocktail
+Columbia
+Columbia Red
+Columbian
+Colombo
+Columbus Black
+Cosa
+Crazy Weed
+Cripple
+Crying Weed
+Cryppie
+Cryptonie
+Culican
+Dagga
+*Dajja
+Dank
+Dawamesk
+Dew
+Diablito (Spanish)
+Diambista
+Dimba
+Ding
+Dinkie Dow
+Dipped Joints
+Dirt Grass
+Dirties
+Dirty Joints
+Ditch
+Ditch Weed
+Djamba
+Do A Joint
+Domestic
+Don Jem
+Don Juan
+Dona Juana (Spanish)
+Dona Juanita (Spanish)
+Donk
+Doob
+Doobee
+Doobie
+Dope
+Dope Smoke
+Doradilla
+Draf
+Draf Weed
+Drag Weed
+Dro
+Dry High
+Dube
+Dubie
+Duby
+Durong
+Duros (Spanish)
+Dust
+Earth
+El Gallo ("Rooster")
+Elephant
+Endo
+*Esra
+Fallbrook Redhair
+Fatty
+Feeling
+Fine Stuff
+Finger
+Finger Lid
+Fir
+Firewood
+Flower
+Flower Tops
+Fraho/Frajo
+*Freefo
+Fu
+Fuma D'Angola (Portugese)
+Gage/Gauge
+Ganga
+Gangster
+*Ganja
+Garbage
+Gash
+Gasper
+Gasper Stick
+Gates
+Gauge Butt
+Geek
+Geek-Joints
+Get a Gage Up
+Get High
+Get the Wind
+
+Ghana
+Giggle Smoke
+Giggle Weed
+Gimmie
+Go Loco
+Goblet of Jam
+Gold
+Gold Star
+Golden
+Golden Leaf
+GOM (Good Old marijuana) 
+Gong
+Gonj
+Good Butt
+Good Giggles
+Good Stuff
+Goody-Goody
+Goof Butt
+Gorge
+Grass
+Grass Brownies
+Grasshopper
+Grata
+Greek
+Green
+Green Buds
+Green Goddess
+Greens
+Greeter
+Gremmies
+Greta
+Griefo
+Griefs
+Grifa (Spanish)
+Griff
+Griffa
+Griffo
+Grogged
+Gunga
+Gungeon
+Gungun
+Gunja
+Gunjah
+Gyve
+Haircut
+*Hanhich
+Happy Cigarette
+Happy Stick
+Harsh
+Has
+Hash
+Hawaiian
+Hawaiian Black
+Hawaiian Homegrown Hay
+Hay
+Hay Butt
+Haze
+Headies
+Hemp
+Herb
+Herb and Al
+Herba
+Hit
+Hit the Hay
+Hocus
+Homegrown
+Honey blunts
+Hooch
+Hooter
+Hot Stick
+Hydro
+Hydrogrows
+Illies
+Illing
+Illy
+Indian Boy
+Indian Hay
+Indian Hemp
+Indica
+Indo
+Indonesian Bud
+*Instaga
+Instagu
+IZM
+J
+Jamaican Gold
+Jamaican Red Hair
+Jay
+Jay Smoke
+Jane
+Jim Jones
+Jive
+Jive Stick
+Johnson Grass
+Joint
+Jolly Green
+*Jonjem
+Joy Smoke
+Joy Stick
+Ju-Ju
+Juan Valdez (Spanish)
+Juanita (Spanish)
+Juice Joint
+Juja
+Ju-Ju
+Jumbos
+Kabak
+Kaff
+*Kalakit
+Kali
+Kansas Grass
+Kate Bush
+Kawaii Electric
+Kaya
+KB
+Kee
+Kentucky Blue
+Key
+KGB
+Khayf
+Ki
+Kick Stick
+Kief
+Kif
+Kiff
+Killer
+Killer Green Bud
+Killer Weed
+Kilter
+Kind
+Kind Bud
+King Bud
+Kona Gold
+Krippy
+Kryptonite
+Ktutchu String
+Kumba
+L.G. (Lime Green)
+L.L.
+Lace
+Lakbay Diva
+Laughing Grass
+Laughing Weed
+Leaf
+Leak
+Leno (Spanish)
+Lid
+Liesca
+Light Green
+Lime Green
+Light Stuff
+Lima
+Liprimo
+Little Smoke
+*Llesca
+Loaf
+Lobo
+Loco (Spanish)
+Loco Weed (Spanish)
+Locoweed
+Log
+Loose Shank
+Love Boat
+Love Leaf
+Love Weed
+Lovelies
+Lubage
+M
+M.J.
+M.O.
+M.U.
+Macaroni
+Machinery
+Macon
+Maconha
+Mafu (Spanish)
+Maggie
+Magic Dragon
+Magic Smoke
+Manhattan Silver
+Mari
+Mari Jane
+Marimba (Spanish)
+Mary
+Mary & Johnny
+Mary Ann
+Mary Jane
+Mary Jonas
+Mary Warner
+Mary Weaver
+Mary Worner
+Matchbox
+Maui Wauie
+Maui Wowie
+Meg
+Megg
+Meggie
+Messorole
+Mexican Brown
+Mexican Green
+Mexican Locoweed
+Mexican Red
+Mez
+Mezz
+Mighty Mezz
+Mo
+Moahsky
+*Mocoha
+Modams
+Mohasky
+Mohasty
+Monte
+Mooca/Moocah
+Moocha
+Mooster
+Moota/Mutah
+Mooters
+Mootie
+Mootos
+Mor A Grifa
+Mota
+Mother
+Moving the Lawn
+Mow the Grass
+Mu
+Muggie
+Muggle
+Muggles
+Muta
+Mutah
+Mutha
+Nail
+Nigra
+*Northern Lights
+Number
+*Oboy
+O.J.
+Oit
+P-dogs
+P.R.
+Pack
+Pack A Bowl
+Pack Of Rocks
+Pakaloco
+Pakalolo
+Pakistani Black
+Panama Cut
+Panama Gold
+Panama Red
+Panatella
+Paper blunts
+Parsley
+Pasto (Spanish)
+Pat
+Philly Blunts
+Pin
+Pine
+Pocket Rocket
+Pod
+Poke
+Pot
+Potlikker
+Potten Bush
+Prescription
+Pretendica
+Pretendo
+Puff
+Queen Ann's Lace
+Ragweed
+Railroad Weed
+Rainy Day Woman
+Rangood
+Rasta
+Rasta Weed
+Red Bud
+Red Cross
+Red Dirt
+Reef
+Reefer
+Righteous Bush
+Rip
+Roacha
+Rockets
+Root
+Rope
+Rose Marie
+Rough Stuff
+Rubia
+Rugs
+Salad
+Salt And Pepper
+Sandwich Bag
+Santa Maria
+Santa Marta
+Sasfras
+Schwagg
+Scissors
+Scrub
+seeds
+Sen
+Sess
+Sezz
+Shake
+Shrimp
+Siddi
+Sinse
+Sinsemilia
+Skunk
+Skunkweed
+Smoke
+Smoke A Bowl
+Smoke Canada
+Snop
+Spliff
+Spliffy
+Splim
+Square Mackerel
+Stack
+Stems
+Stick
+Sticky Icky
+Stinkweed
+Stoney Weed
+Straw
+Stuff
+Sugar Weed
+Super Grass
+Super Pot
+Swag
+Sweet Lucy
+T
+Taima
+Takkouri
+Tea
+Tex Mex
+Texas Pot
+Texas Tea
+Thai Stick
+Thirteen
+Thumb
+Tin
+Toke
+Torch
+Trauma
+Tray
+Trees
+Triple A
+Trupence Bag
+Tustin
+Twenty Six Red
+Twist
+Twistum
+Unotque
+Viper Weed
+Wake and Bake
+Wacky Tobaccky
+Wake and Bake
+Weed
+Weed Tea
+Whack
+Whackatabacky
+Whackyweed
+Wheat
+White Russian
+White-Haired Lady
+Woo Blunts
+Wooz
+Yeh
+Yellow Submarine
+Yen Pop
+Yerba (Spanish)
+Yerhia
+Yesca
+Yesco
+Ying
+Zambi
+Zig Zag Man
+Zol

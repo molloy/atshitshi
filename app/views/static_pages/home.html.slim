@@ -1,0 +1,11 @@
+/ h1 hello
+div id="search_controls" title="Dialog Title"
+	= form_tag :remote => true
+		= label_tag 'Where?'
+		= text_field_tag 'user_location'
+		= submit_tag 'Go'
+
+javascript:
+	$(document).ready(function() {
+		request_location = '#{@request_location}';
+	})

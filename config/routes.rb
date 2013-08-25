@@ -1,4 +1,6 @@
 Atshitshi::Application.routes.draw do
+  resources :businesses
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -53,4 +55,12 @@ Atshitshi::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  get 'static_pages/home'
+
+  get  'map' => 'map#index'
+  post 'map' => 'map#index'
+  get  'map/:search_value' => 'map#view'
+
+  root to: 'static_pages#home'
 end

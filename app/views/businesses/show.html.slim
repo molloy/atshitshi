@@ -1,0 +1,39 @@
+p#notice = notice
+
+p
+  strong Name:
+  = @business.name
+p
+  strong Description:
+  = @business.description
+p
+  strong Location:
+  = @business.location
+p
+  strong Address1:
+  = @business.address1
+p
+  strong Address2:
+  = @business.address2
+p
+  strong City:
+  = @business.city
+p
+  strong State:
+  = @business.state
+p
+  strong Zip:
+  = @business.zip
+p
+  strong Phone1:
+  = @business.phone1
+p
+  strong Phone2:
+  = @business.phone2
+p
+  strong Website:
+  = @business.website
+
+= link_to 'Edit', edit_business_path(@business)
+'|
+= link_to 'Back', businesses_path
