@@ -42,7 +42,15 @@ $ ->
 		elements: {
 			map: "#map",
 			lat: "#lat",
-			lng: "#lng"
+			lng: "#lng",
+			street_number: '#street_number',
+			route: '#route',
+			locality: '#locality',
+			administrative_area_level_1: '#administrative_area_level_1',
+			administrative_area_level_2: '#administrative_area_level_2',
+			country: '#country',
+			postal_code: '#postal_code',
+			type: '#type'
 		}
 	}
 
