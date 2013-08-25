@@ -5,26 +5,28 @@ $ ->
 	window.wiselinks = new Wiselinks()
 
 	mapCanvas = $('#map')
+	userSearch = $('#user_search')
+
 	$("#search_controls").dialog( { dialogClass: 'no-close' } )
 	$(".ui-dialog-titlebar").hide();
 
-	if (mapCanvas.length > 0)
-		mapOptions =
-			zoom: 15,
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-		map = new google.maps.Map(mapCanvas.get(0), mapOptions)
+	# if (mapCanvas.length > 0)
+		# mapOptions =
+		# 	zoom: 15,
+		# 	mapTypeId: google.maps.MapTypeId.ROADMAP
+		# map = new google.maps.Map(mapCanvas.get(0), mapOptions)
 
-		if navigator.geolocation
-			navigator.geolocation.getCurrentPosition (position) ->
-				initloc = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)
-				map.setCenter(initloc)
-		else
-			if (request_location)
-				new google.maps.Geocoder().geocode { 'address': request_location }, (results, status) ->
-					if status == google.maps.GeocoderStatus.OK
-						position = results[0].geometry.location
-						initloc = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)
-						map.setCenter(initloc)
+		# if navigator.geolocation
+		# 	navigator.geolocation.getCurrentPosition (position) ->
+		# 		initloc = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)
+		# 		map.setCenter(initloc)
+		# else
+		# 	if (request_location)
+		# 		new google.maps.Geocoder().geocode { 'address': request_location }, (results, status) ->
+		# 			if status == google.maps.GeocoderStatus.OK
+		# 				position = results[0].geometry.location
+		# 				initloc = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)
+		# 				map.setCenter(initloc)
 
 
 	$(window).on 'resize', (e) ->
@@ -34,3 +36,15 @@ $ ->
 		# $("#search_controls").closest('.ui-dialog').offset( { top: $, left: 10 })
 
 	$(window).resize()
+
+	userSearch = $('#user_search').addresspicker {
+		regionBias: 'usa',
+		elements: {
+			map: "#map",
+			lat: "#lat",
+			lng: "#lng"
+		}
+	}
+
+	initloc = new google.maps.LatLng(36.778261, -119.41793239999998)
+	userSearch.addresspicker('map').setCenter(initloc)
