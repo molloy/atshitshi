@@ -62,5 +62,5 @@ Atshitshi::Application.routes.draw do
   post 'map' => 'map#index'
   get  'map/:search_value' => 'map#view'
 
-  root to: 'static_pages#home'
+  root to: 'map#index'
 end

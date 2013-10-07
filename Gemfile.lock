@@ -92,6 +92,9 @@ GEM
     mime-types (1.23)
     mini_portile (0.5.1)
     minitest (4.7.5)
+    mongoid_geospatial (2.8.2)
+      activesupport (>= 3.2)
+      mongoid (>= 3.0.0)
     moped (1.5.0)
     multi_json (1.7.7)
     multi_test (0.0.2)
@@ -185,6 +188,7 @@ DEPENDENCIES
   jquery-rails
   jquery-ui-rails
   mongoid!
+  mongoid_geospatial
   rails (= 4.0.0)
   rspec-rails
   sass-rails (~> 4.0.0)

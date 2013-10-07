@@ -54,6 +54,7 @@ end
 gem 'bson_ext'
 gem 'bootstrap-sass'
 gem 'mongoid', git: 'git://github.com/mongoid/mongoid.git'
+gem 'mongoid_geospatial'
 gem  'slim-rails'
 gem 'geocoder'
 gem 'jquery-ui-rails'

@@ -197,7 +197,10 @@
         var address = request.term, self = this;
         this.geocoder.geocode({
             'address': address + this.options.appendAddressString,
-            'region': this.options.regionBias
+            'region': this.options.regionBias,
+            'componentRestrictions': {
+              country: this.options.regionBias
+            }
         }, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK && results) {
                 for (var i = 0; i < results.length; i++) {
